@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5f0a53174fb61cd4388a220398303464
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Polly Rounded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ce3063cd0e442064ba720d14a6976c42, type: 3}
+  - {fileID: 12800000, guid: e4b8038338f5fcf40ae4d61914081d76, type: 3}
+  - {fileID: 12800000, guid: 5381635c1a12bbe4abb784c8530b8d6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
