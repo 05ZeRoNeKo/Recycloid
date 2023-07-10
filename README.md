@@ -28,7 +28,7 @@ I want to improve the project to make it feel more like a game rather than a pro
   for the time being. Just like with "The Park", I intend to improve its design.
 ### Gameplay
   After talking to a friend, we've came up with a few things to hopefully make the game a bit more engaging:
-  - There are now 3 power-ups: speed boost, speed debuff, and add time. Only the first 2 are put into the game as I'm deciding whether to have it spawn in its own interval.
+  - There are now 3 power-ups: speed boost, speed debuff, and add time. Only the first 2 are put into the game as I'm deciding whether to have it(add time) spawn in its own interval.
   - On the subject of spawning at intervals, waste items now spawn at different rates depending on the time remaining, while the power-ups spawn randomly between 5-9sec intervals
     splitting 50-50 chance of spawning.
   - The waste items don't have a glow to them but now show a name tag at the bottom of the screen so that players have to figure out which trash belong to which category of bin.
